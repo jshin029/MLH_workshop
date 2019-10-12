@@ -1,0 +1,17 @@
+.headerStyle {
+  font-size: 50px;
+  color: #DAF7A6;
+}
+
+.pStyle {
+  font-size: 20px;
+  color: #DAF7A6;
+}
+
+.backgroundStyle {
+  background-color: #85C1E9;
+}
+
+.headerWrap {
+  text-align: center;
+}
